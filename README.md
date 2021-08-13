@@ -16,8 +16,9 @@ Aside from developing websites and mobile apps, I like playing videos games, wat
 # 📫 How to reach me ...
 Contact me directly at sonnybaga@gmail.com
 
-> I'm open for freelance work - especially big projects
-> Come visit sonnybaga.dev
+> I'm open for freelance work - especially big projects.
+
+> Come visit [sonnybaga.dev](http://sonnybaga.dev)
 
 <!---
 sonnyb378/sonnyb378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
