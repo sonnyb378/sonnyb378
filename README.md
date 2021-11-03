@@ -3,14 +3,17 @@ I'm a web and mobile developer based in Los Angeles, CA.
 
 # :star: Technologies I use:
 - Javascript (React, Gatsby, NodeJS/Express)
-- React Native for cross-platform mobile apps
-- Swift and Realm for native iOS Development
+- React Native
+- Swift
 - PHP (CodeIgniter / Laravel)
 - MySQL, MongoDB
+- Typescript
+- Wordpress (Headless)
 - Adobe XD, Sketch, Photoshop
 
-# 👀 I’m interested in ...
-Aside from developing websites and mobile apps, I like playing videos games, watching TV/movies or just hanging out with friends and family
+
+# 👀 I’m also interested in ...
+WebGL, ThreeJS & Blender
 
 
 # 📫 How to reach me ...
