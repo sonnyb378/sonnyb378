@@ -2,12 +2,13 @@
 I'm a web and mobile developer based in Los Angeles, CA.
 
 # :star: Technologies I use:
-- Javascript (React, Gatsby, NodeJS/Express)
+- Javascript (React, NextJS, Gatsby, NodeJS/Express)
 - React Native
 - Swift
 - PHP (CodeIgniter / Laravel)
 - MySQL, MongoDB
 - Typescript
+- CSS/SASS/TailwindCSS/Styled Components
 - Wordpress (Headless)
 - Adobe XD, Sketch, Photoshop
 
