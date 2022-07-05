@@ -9,7 +9,7 @@ I'm a web and mobile developer based in Los Angeles, CA.
 - MySQL, MongoDB
 - Typescript
 - CSS/SASS/TailwindCSS/Styled Components
-- Wordpress (Headless)
+- Headless: Wordpress, Sanity, Contentful, Shopify
 - Adobe XD, Sketch, Photoshop
 
 
