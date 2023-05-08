@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @sonnyb378
-I'm a web and mobile developer based in Los Angeles, CA.
+# 👋 Hi, I’m Sonny
+I'm a fullstack and mobile developer based in Los Angeles, CA.
 
 # :star: Technologies I use:
 - Javascript (React, NextJS, Gatsby, NodeJS/Express)
