@@ -1,16 +1,20 @@
 # 👋 Hi, I’m Sonny
 I'm a fullstack and mobile developer based in Los Angeles, CA.
 
-# :star: Technologies I use:
-- Javascript (React, NextJS, Gatsby, NodeJS/Express)
+# :star: Technologies and tools I work with:
+- NextJS, React, Gatsby
+- Javascript | Typescript
 - React Native
 - Swift
 - PHP (CodeIgniter / Laravel)
-- MySQL, MongoDB
-- Typescript
+- NodeJS / Express
+- MySQL, MongoDB, Firestore
 - CSS/SASS/TailwindCSS/Styled Components
 - Headless: Wordpress, Sanity, Contentful, Shopify
 - Adobe XD, Sketch, Photoshop
+- Firebase
+- Zustand
+- REST and GraphQL API
 
 
 # 👀 I’m also interested in ...
