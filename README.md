@@ -2,65 +2,13 @@
 I'm a fullstack and mobile developer based in Los Angeles, CA.
 
 # :star: Technologies and tools I work with:
-<ul>
-  <li>Programming Language:
-    <ol>
-      <li>Javascript | Typescript</li>
-      <li>PHP</li>
-      <li>Swift</li>
-      <li>Go</li>
-    </ol>
-  </li>
-  <li>Frameworks & Libraries:
-    <ol>
-      <li>React, NextJS, Gatsby</li>
-      <li>React Native</li>
-      <li>CodeIgniter, Laravel</li>
-      <li>Express</li>
-    </ol>
-  </li>
-   <li>Storage:
-    <ol>
-      <li>MySQL</li>
-      <li>MongoDB</li>
-      <li>Firebase (Firestore, Realtime DB</li>
-    </ol>
-  </li>
-  <li>Headless:
-    <ol>
-      <li>Wordpress</li>
-      <li>Contentful</li>
-      <li>Shopify</li>
-    </ol>
-  </li>
-  <li>Design and Prototyping:
-    <ol>
-      <li>Figma</li>
-      <li>Adobe XD</li>
-      <li>Photoshop</li>
-    </ol>
-  </li>
-  <li>State Management:
-    <ol>
-      <li>Redux Toolkit</li>
-      <li>Zustand</li>
-    </ol>
-  </li>
-  <li>State Management:
-    <ol>
-      <li>Redux Toolkit</li>
-      <li>Zustand</li>
-    </ol>
-  </li>
-    <li>Others:
-    <ol>
-      <li>CSS3, SASS, TailwindCSS, Styled Components</li>
-      <li>ChakraUI</li>
-      <li>REST and GraphQL API</li>
-    </ol>
-  </li>
-</ul>
-
+- **Programming Languages:** Javascript, Typescript, Swift, PHP, Go
+- Web Development: HTML5, CSS3 / SCSS, React, Next.js, Gatsby, CodeIgniter, Laravel, NodeJS, Express, TailwindCSS, Bootstrap, jQuery, Ajax, ChakraUI, Apollo Client 
+- Mobile Development: React Native 
+- Databases: MySQL, No-SQL - MongoDB, Firestore, Realm 
+- Design and Prototyping: Adobe XD, Figma 
+- APIs and Data Interaction: REST API, GraphQL 
+- Content Management System: Wordpress, Contentful 
 
 
 # 👀 I’m also interested in ...
